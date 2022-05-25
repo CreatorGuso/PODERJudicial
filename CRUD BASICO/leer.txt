@@ -1,0 +1,5 @@
+Solo modificar la conexion y el nombre de la base de datos en aplication properties 
+
+-Las tablas se crean desde spring boot.
+
+solo ejecutar.
